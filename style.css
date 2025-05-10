@@ -1,0 +1,24 @@
+body{
+    background:linear-gradient(135deg, #084ebe, #0e77d3);
+    font-family: 'Segoe UI', sans-serif;
+}
+.custom-card {
+    max-width: 320px;
+    background-color: #fff;
+    border-radius: 20px;
+    transition: transform 0.3s ease;
+    }
+    .custom-card:hover {
+        background-color: rgb(111, 164, 229);
+        cursor: pointer;
+    }
+    .custom-card h3 {
+        color: #333;
+        }
+        .custom-card p {
+        color: #555;
+        }
+        .btn{
+        font-weight: bold;
+        margin-bottom: 20px;
+        }
